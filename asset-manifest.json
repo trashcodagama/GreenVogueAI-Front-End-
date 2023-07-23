@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/GreenVogueAI-Front-End-/static/css/main.7c78cc43.css",
-    "main.js": "/GreenVogueAI-Front-End-/static/js/main.4bc03731.js",
+    "main.css": "/GreenVogueAI-Front-End-/static/css/main.d3c0d6a9.css",
+    "main.js": "/GreenVogueAI-Front-End-/static/js/main.dacfb28b.js",
     "index.html": "/GreenVogueAI-Front-End-/index.html",
-    "main.7c78cc43.css.map": "/GreenVogueAI-Front-End-/static/css/main.7c78cc43.css.map",
-    "main.4bc03731.js.map": "/GreenVogueAI-Front-End-/static/js/main.4bc03731.js.map"
+    "main.d3c0d6a9.css.map": "/GreenVogueAI-Front-End-/static/css/main.d3c0d6a9.css.map",
+    "main.dacfb28b.js.map": "/GreenVogueAI-Front-End-/static/js/main.dacfb28b.js.map"
   },
   "entrypoints": [
-    "static/css/main.7c78cc43.css",
-    "static/js/main.4bc03731.js"
+    "static/css/main.d3c0d6a9.css",
+    "static/js/main.dacfb28b.js"
   ]
 }
